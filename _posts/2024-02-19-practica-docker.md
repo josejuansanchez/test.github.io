@@ -7,5 +7,5 @@ categories: docker iaw
 
 Práctica sobre Docker
 
-![]({{ site.url }}/images/docker.png)
+![]({{ site.url }}/{{ site.baseurl }}/images/docker.png)
 
